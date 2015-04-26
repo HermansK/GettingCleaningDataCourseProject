@@ -13,3 +13,15 @@ Triaxial Angular velocity from the gyroscope.
 A 561-feature vector with time and frequency domain variables.
 Its activity label.
 An identifier of the subject who carried out the experiment.
+
+#Data sources
+*features.txt = contained all columnnames of x_train/x_test
+*activity_labels.txt = translation of y_train/y_test
+*subject_train.txt= id
+*x_train.txt = values
+*y_train.txt = which activity was done
+*subject_test.txt = id
+*x_test.txt = values
+*y_test.txt = which activity was done
+
+
