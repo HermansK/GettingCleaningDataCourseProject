@@ -5,9 +5,11 @@ This repository was created for the submission of the course project.
 ##Overview
 
 The repository contains 3 files:
-1. tidyDataset.txt : output file
-2. README.md : explaination of repository and basic overview of the project
-3. CodeBook.md : describes the variables of the tidyDataset.txt
+
+1. tidyDataset.txt: output file
+2. Run_analysis.R: r code to transform raw data to the tidy dataset (=tidyDataset.txt)
+2. README.md: explaination of repository and basic overview of the project
+3. CodeBook.md: describes the variables of the tidyDataset.txt
 
 ##Project Summary
 
